@@ -14,4 +14,4 @@ By connecting the filing information with the logs, we can learn a lot about the
 
 Others have used this same data to make good guesses about what docs various hedge funds and others are looking at, then correlate that with success. For those interested in the nitty-gritty details of what could be done with this data, take a look at this early-stage work: Hedge Funds and Public Information Acquisition.
 
-## Last Updated: 04/12/2024
+### Last Updated: 04/12/2024
