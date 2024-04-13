@@ -19,7 +19,7 @@ Understanding the behavior of users who access the EDGAR database can offer pred
 
 Clone this repository to your local machine using:
   ```markdown
-  git clone https://github.com/yourusername/EDGAR-Web-Logs.git
+  git clone https://github.com/adityakmehrotra/EDGAR-Web-Logs.git
   ```
 
 Navigate to the project directory:
