@@ -18,32 +18,26 @@ Understanding the behavior of users who access the EDGAR database can offer pred
 ## Installation
 
 Clone this repository to your local machine using:
-
   ```markdown
   git clone https://github.com/yourusername/EDGAR-Web-Logs.git
   ```
 
 Navigate to the project directory:
-
-```markdwon
-Copy code
-cd EDGAR-Web-Logs
-```
+  ```markdwon
+  cd EDGAR-Web-Logs
+  ```
 
 Install the required Python packages:
-
-```python
-Copy code
-pip install -r requirements.txt
-```
+  ```python
+  pip install -r requirements.txt
+  ```
 
 ## Usage
 
 Open the main.ipynb notebook in a Jupyter environment to view the analysis:
-
-```bash
-jupyter notebook main.ipynb
-```
+  ```bash
+  jupyter notebook main.ipynb
+  ```
 
 ## Data
 
